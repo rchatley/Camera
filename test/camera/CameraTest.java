@@ -1,5 +1,7 @@
 package camera;
 
+import static org.junit.Assert.assertTrue;
+
 import org.jmock.integration.junit4.JUnitRuleMockery;
 import org.junit.Rule;
 import org.junit.Test;
@@ -11,8 +13,7 @@ public class CameraTest {
 
     @Test
     public void switchingTheCameraOnPowersUpTheSensor() {
-
-         // write your test here
+         // Write your test here
     }
 
 }
